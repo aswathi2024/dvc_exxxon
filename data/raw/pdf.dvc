@@ -3,4 +3,4 @@ outs:
   size: 1337255
   nfiles: 20
   hash: md5
-  path: raw
+  path: pdf
